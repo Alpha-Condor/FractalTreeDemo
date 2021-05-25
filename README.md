@@ -2,5 +2,5 @@
 Demonstration of a fractal tree using python and pygame.
 
 *** NEEDED TO RUN ***
-Pygame
+Pygame 
 Math : Pythons MATH library
